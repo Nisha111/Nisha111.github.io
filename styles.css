@@ -2,6 +2,7 @@ body {
   font-family: "Helvetica", sans-serif;
   width: 960px;
   margin: 10px auto;
+  padding-top: 70px;
 
 }
 img {
@@ -32,4 +33,9 @@ h3 {
   width: 150px;
   box-shadow: 8px 8px 4px #AAA;
   float: none;
+}
+
+.navbar-inverse{
+  background-color:#AAAAAA;
+  color: #AAAAAA
 }
